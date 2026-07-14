@@ -1,5 +1,5 @@
 <?php 
 
-echo "syeds smtp fratures to send email";
+echo "syeds smtp fratures to send email sse";
 
 ?>
