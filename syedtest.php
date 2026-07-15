@@ -1,7 +1,4 @@
 <?php 
 
-echo "syed";
-
-echo "azharuddin";
-
+echo "syedss";
 ?>
